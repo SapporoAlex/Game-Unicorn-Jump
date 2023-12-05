@@ -1,6 +1,6 @@
 # Game-Unicorn-Jump
 
-![Unicorn Image](Assets/unicorngalloping2.png)
+![Unicorn Image](Assets/unicorn/unicorngalloping2.png)
 
 This is a reskin of the Chrome Dino-Jump game.
 
