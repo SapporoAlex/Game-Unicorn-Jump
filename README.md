@@ -28,8 +28,8 @@ This is a reskin of the Chrome Dino-Jump game.
    ```
 
 ## File Structure
-- 'assets': Folder with png images
-- 'main.py': Python script for running the game
+- `assets`: Folder with png images
+- `main.py`: Python script for running the game
 
 ## Author
 Alex McKinley
