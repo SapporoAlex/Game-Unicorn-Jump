@@ -4,7 +4,7 @@ import random
 
 # Global constants
 pygame.init()
-pygame.display.set_caption("Momo's Unicorn Jump Game")
+pygame.display.set_caption("Unicorn Jump Game")
 
 SCREEN_HEIGHT = 600
 SCREEN_WIDTH = 1100
