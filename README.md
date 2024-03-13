@@ -1,6 +1,6 @@
 # Game-Unicorn-Jump
 
-![Unicorn Image](Assets/unicorn/unicorngalloping2.png)
+<img src="https://github.com/SapporoAlex/Game-Unicorn-Jump/blob/main/unicorn_jump.gif" style="max-width:100%; height:auto;">
 
 This is a reskin of the Chrome Dino-Jump game.
 
