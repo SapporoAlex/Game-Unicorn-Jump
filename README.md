@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SapporoAlex/Game-Unicorn-Jump/blob/main/unicorn_jump.gif" style="max-width:100%; height:auto;">
 
-This is a reskin of the Chrome Dino-Jump game.
+This is a reskin of the Chrome Dino-Jump game. It has a magical unicorn aesthetic and a parallax scrolling background.
 
 ## Table of Contents
 - [Requirements](#requirements)
