@@ -1,0 +1,19 @@
+{
+  "name": "Unicorn Jump",
+  "short_name": "Unicorn Jump",
+  "description": "A playful endless runner game about jumping over obstacles.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1b1038",
+  "theme_color": "#ff7fdb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "Assets/obstacles/largerainbow3.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
